@@ -1,3 +1,5 @@
+THIS PACKAGE IS NO LONGER MAINTAINED.
+
 # LightDarkPOMDPs
 
 ![A trajectory of a good solution to a LightDark2DTarget problem](https://github.com/zsunberg/LightDarkPOMDPs.jl/raw/master/img/target_good_solution.gif)
